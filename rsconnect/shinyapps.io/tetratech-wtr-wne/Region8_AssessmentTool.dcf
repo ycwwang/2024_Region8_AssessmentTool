@@ -1,0 +1,13 @@
+name: Region8_AssessmentTool
+title: App_V3
+username: tetratech-wtr-wne
+account: tetratech-wtr-wne
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12395620
+bundleId: 8947619
+url: https://tetratech-wtr-wne.shinyapps.io/Region8_AssessmentTool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/Download_completed.PNG
